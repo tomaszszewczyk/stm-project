@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>stm-DEBUG@debug</name>
+	<comment></comment>
+	<projects></projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.makeBuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.cleanBuildTarget</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableCleanBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.append_environment</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.stopOnError</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enabledIncrementalBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.command</key>
+					<value>/usr/bin/make</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.contents</key>
+					<value>org.eclipse.cdt.make.core.activeConfigSettings</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.inc</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.arguments</key>
+					<value>-j8</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildLocation</key>
+					<value>/home/tomek/code/stm-project/project/build/debug</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.environment</key>
+					<value>VERBOSE=1|CMAKE_NO_VERBOSE=1|</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableFullBuild</key>
+					<value>true</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.auto</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.enableAutoBuild</key>
+					<value>false</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.target.clean</key>
+					<value>clean</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.fullBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.buildArguments</key>
+					<value></value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.build.location</key>
+					<value>/home/tomek/code/stm-project/project/build/debug</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.make.core.autoBuildTarget</key>
+					<value>all</value>
+				</dictionary>
+				<dictionary>
+					<key>org.eclipse.cdt.core.errorOutputParser</key>
+					<value>org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.GLDErrorParser;</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.make.core.ScannerConfigBuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.make.core.makeNature</nature>
+		<nature>org.eclipse.cdt.make.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[Source directory]</name>
+			<type>2</type>
+			<location>/home/tomek/code/stm-project/project/source</location>
+		</link>
+		<link>
+			<name>[Subprojects]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Subprojects]/stm</name>
+			<type>2</type>
+			<location>/home/tomek/code/stm-project/project/source</location>
+		</link>
+		<link>
+			<name>[Targets]</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Source Files/main.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/main.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Source Files/stm32f10x_it.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/stm32f10x_it.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] main/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl//startup_stm32f10x_md.s</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/startup_stm32f10x_md.s</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/core_cm3.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/core_cm3.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/misc.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/misc.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_adc.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_adc.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_bkp.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_bkp.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_can.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_can.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_cec.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_cec.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_crc.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_crc.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_dac.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_dac.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_dbgmcu.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_dbgmcu.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_dma.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_dma.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_exti.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_exti.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_flash.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_flash.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_fsmc.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_fsmc.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_gpio.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_gpio.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_i2c.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_i2c.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_iwdg.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_iwdg.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_pwr.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_pwr.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_rcc.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_rcc.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_rtc.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_rtc.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_sdio.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_sdio.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_spi.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_spi.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_tim.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_tim.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_usart.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_usart.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/stm32f10x_wwdg.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_wwdg.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Source Files/system_stm32f10x.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/spl/src/system_stm32f10x.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] Spl/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/croutine.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/croutine.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/event_groups.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/event_groups.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/list.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/list.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/queue.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/queue.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/tasks.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/tasks.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/timers.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/timers.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/port.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM3/port.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Source Files/heap_4.c</name>
+			<type>1</type>
+			<location>/home/tomek/code/stm-project/project/source/free_rtos/portable/MemMang/heap_4.c</location>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Header Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/CMake Rules</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Resources</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Object Files</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[lib] RTOS/Object Libraries</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
