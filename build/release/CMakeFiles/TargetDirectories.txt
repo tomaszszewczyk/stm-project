@@ -1,0 +1,10 @@
+/home/tomek/code/stm-project/project/build/release/CMakeFiles/rebuild_cache.dir
+/home/tomek/code/stm-project/project/build/release/CMakeFiles/edit_cache.dir
+/home/tomek/code/stm-project/project/build/release/CMakeFiles/main.dir
+/home/tomek/code/stm-project/project/build/release/CMakeFiles/flash.dir
+/home/tomek/code/stm-project/project/build/release/spl/CMakeFiles/edit_cache.dir
+/home/tomek/code/stm-project/project/build/release/spl/CMakeFiles/rebuild_cache.dir
+/home/tomek/code/stm-project/project/build/release/spl/CMakeFiles/Spl.dir
+/home/tomek/code/stm-project/project/build/release/free_rtos/CMakeFiles/rebuild_cache.dir
+/home/tomek/code/stm-project/project/build/release/free_rtos/CMakeFiles/edit_cache.dir
+/home/tomek/code/stm-project/project/build/release/free_rtos/CMakeFiles/RTOS.dir

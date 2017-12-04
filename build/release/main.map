@@ -1,0 +1,1650 @@
+Archive member included to satisfy reference by file (symbol)
+
+spl/libSpl.a(misc.c.obj)      CMakeFiles/main.dir/main.c.obj (NVIC_PriorityGroupConfig)
+spl/libSpl.a(startup_stm32f10x_md.s.obj)
+                              (Reset_Handler)
+spl/libSpl.a(stm32f10x_gpio.c.obj)
+                              CMakeFiles/main.dir/main.c.obj (GPIO_Init)
+spl/libSpl.a(stm32f10x_rcc.c.obj)
+                              CMakeFiles/main.dir/main.c.obj (RCC_APB2PeriphClockCmd)
+spl/libSpl.a(system_stm32f10x.c.obj)
+                              spl/libSpl.a(startup_stm32f10x_md.s.obj) (SystemInit)
+free_rtos/libRTOS.a(tasks.c.obj)
+                              CMakeFiles/main.dir/main.c.obj (xTaskCreate)
+free_rtos/libRTOS.a(port.c.obj)
+                              free_rtos/libRTOS.a(tasks.c.obj) (pxPortInitialiseStack)
+free_rtos/libRTOS.a(heap_4.c.obj)
+                              free_rtos/libRTOS.a(tasks.c.obj) (pvPortMalloc)
+free_rtos/libRTOS.a(list.c.obj)
+                              free_rtos/libRTOS.a(tasks.c.obj) (vListInitialise)
+/usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+/usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+/usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+HSEStartUpStatus    0x1               CMakeFiles/main.dir/main.c.obj
+GPIO_InitStructure  0x4               CMakeFiles/main.dir/main.c.obj
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x0000000000000000       0x74 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/main.dir/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/main.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x8b0 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x5c CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x87 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x51 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0xef CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x6a CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x1df CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x69f CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000     0x7dbe CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x2df CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x144 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x3cf CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0xc8 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x17a CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0xac CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x3ad CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x9a CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x279 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x2ac CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x2b1 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x64 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x82 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x3e2 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x58 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x341 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x2c4 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x711 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000      0x220 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x34 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x8b CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x0000000000000000       0x35 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(misc.c.obj)
+ .data          0x0000000000000000        0x0 spl/libSpl.a(misc.c.obj)
+ .bss           0x0000000000000000        0x0 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x5c spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x87 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x51 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0xef spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x6a spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x1df spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x69f spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000     0x7dbe spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x2df spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x144 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x3cf spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0xc8 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x17a spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0xac spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x3ad spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x9a spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x2cf spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x279 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x2ac spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x2b1 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x64 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x82 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x3e2 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x58 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x341 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x2c4 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x711 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000      0x220 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x34 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x0000000000000000       0x35 spl/libSpl.a(misc.c.obj)
+ .text          0x0000000000000000       0x14 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .data          0x0000000000000000        0x0 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .bss           0x0000000000000000        0x0 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .data          0x0000000000000000        0x0 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .bss           0x0000000000000000        0x0 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x5c spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x87 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x51 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0xef spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x6a spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x1df spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x69f spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000     0x7dbe spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x2df spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x144 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x3cf spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0xc8 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x17a spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0xac spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x3ad spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x9a spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x2cf spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x279 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x2b1 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x64 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x82 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x3e2 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x58 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x341 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x2c4 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x711 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000      0x220 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x34 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x8b spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x0000000000000000       0x35 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .data          0x0000000000000000        0x0 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .bss           0x0000000000000000        0x0 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x5c spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x87 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x51 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0xef spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x6a spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x1df spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x69f spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000     0x7dbe spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x2df spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x144 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x3cf spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0xc8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x17a spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0xac spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x3ad spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x9a spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x2cf spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x279 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x2ac spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x2b1 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x64 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x82 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x58 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x341 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x2c4 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x711 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000      0x220 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x34 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x8b spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x0000000000000000       0x35 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .data          0x0000000000000000        0x0 spl/libSpl.a(system_stm32f10x.c.obj)
+ .bss           0x0000000000000000        0x0 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x5c spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x22 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x87 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x51 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0xef spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x6a spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x1df spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x69f spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000     0x7dbe spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x2df spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x144 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x3cf spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0xc8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x17a spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0xac spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x3ad spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x9a spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x2cf spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x279 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x2ac spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x2b1 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x64 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x82 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x3e2 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x58 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x341 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x2c4 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x711 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000      0x220 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x34 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x8b spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x0000000000000000       0x35 spl/libSpl.a(system_stm32f10x.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(tasks.c.obj)
+ .data          0x0000000000000000        0x0 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss           0x0000000000000000        0x0 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x22 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x3c free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x9c free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x16 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x52 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x43 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x20 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000      0x1a3 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000      0x330 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x16 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x29 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x35 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0xef free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x6a free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000      0x1df free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0xe1 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000      0x168 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0xe4 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x10 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000      0x416 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0xc0 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x0000000000000000       0x8c free_rtos/libRTOS.a(tasks.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(port.c.obj)
+ .data          0x0000000000000000        0x0 free_rtos/libRTOS.a(port.c.obj)
+ .bss           0x0000000000000000        0x0 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000      0x174 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x22 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x87 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x51 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0xef free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x6a free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000      0x1df free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0xe1 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000      0x168 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0xe4 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x10 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000      0x416 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0xc0 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x0000000000000000       0x8c free_rtos/libRTOS.a(port.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ .data          0x0000000000000000        0x0 free_rtos/libRTOS.a(heap_4.c.obj)
+ .bss           0x0000000000000000        0x0 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x22 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x40 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x8d free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x3c free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x9c free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x16 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x10e free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x8d free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x57 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x52 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x43 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x20 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x1a3 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x330 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x16 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x29 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0xef free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x6a free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x1df free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0xe1 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x168 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0xe4 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x10 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000      0x416 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0xc0 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x0000000000000000       0x8c free_rtos/libRTOS.a(heap_4.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .group         0x0000000000000000        0x8 free_rtos/libRTOS.a(list.c.obj)
+ .data          0x0000000000000000        0x0 free_rtos/libRTOS.a(list.c.obj)
+ .bss           0x0000000000000000        0x0 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x8b0 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x22 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x40 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x8d free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x3c free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x9c free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x16 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x10e free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x8d free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x57 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x52 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x43 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x20 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x1a3 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x330 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x16 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x29 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0xef free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x6a free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x1df free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0xe1 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x168 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0xe4 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x10 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0x1f free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000      0x416 free_rtos/libRTOS.a(list.c.obj)
+ .debug_macro   0x0000000000000000       0xc0 free_rtos/libRTOS.a(list.c.obj)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x48 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000020000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD CMakeFiles/main.dir/main.c.obj
+LOAD CMakeFiles/main.dir/stm32f10x_it.c.obj
+LOAD spl/libSpl.a
+LOAD free_rtos/libRTOS.a
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc_nano.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a
+END GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+                0x0000000020004fff                _estack = 0x20004fff
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c spl/libSpl.a(startup_stm32f10x_md.s.obj)
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.flashtext      0x000000000800010c        0x0
+                0x000000000800010c                . = ALIGN (0x4)
+ *(.flashtext)
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x0000000008000110     0x1f68
+                0x0000000008000110                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000110       0x6c /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x000000000800017c       0xb4 CMakeFiles/main.dir/main.c.obj
+                0x000000000800017c                task1
+                0x00000000080001a8                task2
+                0x00000000080001d0                vApplicationStackOverflowHook
+                0x00000000080001d2                NVIC_Configuration
+                0x00000000080001ea                prvSetupHardware
+                0x000000000800021c                Delay
+ .text          0x0000000008000230       0x12 CMakeFiles/main.dir/stm32f10x_it.c.obj
+                0x0000000008000230                NMI_Handler
+                0x0000000008000232                HardFault_Handler
+                0x0000000008000234                MemManage_Handler
+                0x0000000008000236                BusFault_Handler
+                0x0000000008000238                UsageFault_Handler
+                0x000000000800023a                SVC_Handler
+                0x000000000800023c                DebugMon_Handler
+                0x000000000800023e                PendSV_Handler
+                0x0000000008000240                SysTick_Handler
+ *fill*         0x0000000008000242        0x2 
+ .text          0x0000000008000244       0xb4 spl/libSpl.a(misc.c.obj)
+                0x0000000008000244                NVIC_PriorityGroupConfig
+                0x0000000008000258                NVIC_Init
+                0x00000000080002b4                NVIC_SetVectorTable
+                0x00000000080002c8                NVIC_SystemLPConfig
+                0x00000000080002e0                SysTick_CLKSourceConfig
+ .text          0x00000000080002f8      0x288 spl/libSpl.a(stm32f10x_gpio.c.obj)
+                0x00000000080002f8                GPIO_DeInit
+                0x00000000080003b0                GPIO_AFIODeInit
+                0x00000000080003c6                GPIO_Init
+                0x000000000800046a                GPIO_StructInit
+                0x000000000800047a                GPIO_ReadInputDataBit
+                0x0000000008000486                GPIO_ReadInputData
+                0x000000000800048c                GPIO_ReadOutputDataBit
+                0x0000000008000498                GPIO_ReadOutputData
+                0x000000000800049e                GPIO_SetBits
+                0x00000000080004a2                GPIO_ResetBits
+                0x00000000080004a6                GPIO_WriteBit
+                0x00000000080004b0                GPIO_Write
+                0x00000000080004b4                GPIO_PinLockConfig
+                0x00000000080004c4                GPIO_EventOutputConfig
+                0x00000000080004e0                GPIO_EventOutputCmd
+                0x00000000080004ec                GPIO_PinRemapConfig
+                0x000000000800054c                GPIO_EXTILineConfig
+                0x0000000008000576                GPIO_ETH_MediaInterfaceConfig
+ .text          0x0000000008000580      0x344 spl/libSpl.a(stm32f10x_rcc.c.obj)
+                0x0000000008000580                RCC_DeInit
+                0x00000000080005c0                RCC_HSEConfig
+                0x00000000080005f8                RCC_AdjustHSICalibrationValue
+                0x000000000800060c                RCC_HSICmd
+                0x0000000008000618                RCC_PLLConfig
+                0x000000000800062c                RCC_PLLCmd
+                0x0000000008000638                RCC_SYSCLKConfig
+                0x000000000800064c                RCC_GetSYSCLKSource
+                0x000000000800065c                RCC_HCLKConfig
+                0x0000000008000670                RCC_PCLK1Config
+                0x0000000008000684                RCC_PCLK2Config
+                0x0000000008000698                RCC_ITConfig
+                0x00000000080006b0                RCC_USBCLKConfig
+                0x00000000080006bc                RCC_ADCCLKConfig
+                0x00000000080006d0                RCC_LSEConfig
+                0x00000000080006f0                RCC_LSICmd
+                0x00000000080006fc                RCC_RTCCLKConfig
+                0x000000000800070c                RCC_RTCCLKCmd
+                0x0000000008000718                RCC_GetClocksFreq
+                0x00000000080007a0                RCC_AHBPeriphClockCmd
+                0x00000000080007b8                RCC_APB2PeriphClockCmd
+                0x00000000080007d0                RCC_APB1PeriphClockCmd
+                0x00000000080007e8                RCC_APB2PeriphResetCmd
+                0x0000000008000800                RCC_APB1PeriphResetCmd
+                0x0000000008000818                RCC_BackupResetCmd
+                0x0000000008000824                RCC_ClockSecuritySystemCmd
+                0x0000000008000830                RCC_MCOConfig
+                0x000000000800083c                RCC_GetFlagStatus
+                0x0000000008000864                RCC_WaitForHSEStartUp
+                0x0000000008000894                RCC_ClearFlag
+                0x00000000080008a4                RCC_GetITStatus
+                0x00000000080008b8                RCC_ClearITPendingBit
+ .text          0x00000000080008c4      0x14c spl/libSpl.a(system_stm32f10x.c.obj)
+                0x00000000080008c4                SystemInit
+                0x00000000080009b4                SystemCoreClockUpdate
+ .text          0x0000000008000a10     0x1220 free_rtos/libRTOS.a(tasks.c.obj)
+                0x0000000008000ae4                xTaskCreate
+                0x0000000008000cb4                vTaskDelete
+                0x0000000008000d70                eTaskGetState
+                0x0000000008000dd8                uxTaskPriorityGet
+                0x0000000008000df4                uxTaskPriorityGetFromISR
+                0x0000000008000e1c                vTaskPrioritySet
+                0x0000000008000ee4                vTaskResume
+                0x0000000008000f58                xTaskResumeFromISR
+                0x0000000008000fe0                vTaskStartScheduler
+                0x0000000008001040                vTaskEndScheduler
+                0x0000000008001060                vTaskSuspendAll
+                0x0000000008001070                xTaskGetTickCount
+                0x000000000800107c                xTaskGetTickCountFromISR
+                0x0000000008001088                uxTaskGetNumberOfTasks
+                0x0000000008001094                pcTaskGetName
+                0x00000000080010a4                xTaskIncrementTick
+                0x00000000080011b0                xTaskResumeAll
+                0x0000000008001288                vTaskDelayUntil
+                0x00000000080012e0                vTaskDelay
+                0x0000000008001384                vTaskSwitchContext
+                0x0000000008001414                vTaskSuspend
+                0x00000000080014c4                vTaskPlaceOnEventList
+                0x00000000080014e4                vTaskPlaceOnUnorderedEventList
+                0x000000000800150c                xTaskRemoveFromEventList
+                0x000000000800157c                xTaskRemoveFromUnorderedEventList
+                0x00000000080015d8                vTaskSetTimeOutState
+                0x00000000080015f0                xTaskCheckForTimeOut
+                0x000000000800163c                vTaskMissedYield
+                0x0000000008001648                uxTaskGetTaskNumber
+                0x000000000800164e                vTaskSetTaskNumber
+                0x0000000008001654                vTaskGetInfo
+                0x0000000008001730                uxTaskGetSystemState
+                0x00000000080017d4                xTaskGetCurrentTaskHandle
+                0x00000000080017e0                vTaskPriorityInherit
+                0x0000000008001870                xTaskPriorityDisinherit
+                0x00000000080018e0                uxTaskResetEventItemValue
+                0x00000000080018f8                pvTaskIncrementMutexHeldCount
+                0x0000000008001910                ulTaskNotifyTake
+                0x0000000008001974                xTaskNotifyWait
+                0x00000000080019fc                xTaskGenericNotify
+                0x0000000008001aa0                xTaskGenericNotifyFromISR
+                0x0000000008001b64                vTaskNotifyGiveFromISR
+                0x0000000008001c00                xTaskNotifyStateClear
+ .text          0x0000000008001c30      0x16c free_rtos/libRTOS.a(port.c.obj)
+                0x0000000008001c5c                pxPortInitialiseStack
+                0x0000000008001c80                vPortSVCHandler
+                0x0000000008001ca4                vPortEndScheduler
+                0x0000000008001ca6                vPortEnterCritical
+                0x0000000008001cc4                vPortExitCritical
+                0x0000000008001cd8                xPortPendSVHandler
+                0x0000000008001d24                xPortSysTickHandler
+                0x0000000008001d50                vPortSetupTimerInterrupt
+                0x0000000008001d68                xPortStartScheduler
+ .text          0x0000000008001d9c      0x1a4 free_rtos/libRTOS.a(heap_4.c.obj)
+                0x0000000008001de4                pvPortMalloc
+                0x0000000008001ed8                vPortFree
+                0x0000000008001f24                xPortGetFreeHeapSize
+                0x0000000008001f30                xPortGetMinimumEverFreeHeapSize
+                0x0000000008001f3c                vPortInitialiseBlocks
+ .text          0x0000000008001f40       0x82 free_rtos/libRTOS.a(list.c.obj)
+                0x0000000008001f40                vListInitialise
+                0x0000000008001f56                vListInitialiseItem
+                0x0000000008001f5c                vListInsertEnd
+                0x0000000008001f74                vListInsert
+                0x0000000008001fa2                uxListRemove
+ *(.text*)
+ *fill*         0x0000000008001fc2        0x2 
+ .text.startup  0x0000000008001fc4       0x44 CMakeFiles/main.dir/main.c.obj
+                0x0000000008001fc4                main
+ .text.Reset_Handler
+                0x0000000008002008       0x44 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+                0x0000000008002008                Reset_Handler
+ .text.Default_Handler
+                0x000000000800204c        0x2 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+                0x000000000800204c                EXTI2_IRQHandler
+                0x000000000800204c                TIM1_CC_IRQHandler
+                0x000000000800204c                PVD_IRQHandler
+                0x000000000800204c                EXTI3_IRQHandler
+                0x000000000800204c                EXTI0_IRQHandler
+                0x000000000800204c                I2C2_EV_IRQHandler
+                0x000000000800204c                ADC1_2_IRQHandler
+                0x000000000800204c                SPI1_IRQHandler
+                0x000000000800204c                TAMPER_IRQHandler
+                0x000000000800204c                DMA1_Channel4_IRQHandler
+                0x000000000800204c                USART3_IRQHandler
+                0x000000000800204c                RTC_IRQHandler
+                0x000000000800204c                DMA1_Channel7_IRQHandler
+                0x000000000800204c                CAN1_RX1_IRQHandler
+                0x000000000800204c                TIM4_IRQHandler
+                0x000000000800204c                I2C1_EV_IRQHandler
+                0x000000000800204c                DMA1_Channel6_IRQHandler
+                0x000000000800204c                TIM3_IRQHandler
+                0x000000000800204c                RCC_IRQHandler
+                0x000000000800204c                TIM1_TRG_COM_IRQHandler
+                0x000000000800204c                DMA1_Channel1_IRQHandler
+                0x000000000800204c                Default_Handler
+                0x000000000800204c                EXTI15_10_IRQHandler
+                0x000000000800204c                EXTI9_5_IRQHandler
+                0x000000000800204c                SPI2_IRQHandler
+                0x000000000800204c                DMA1_Channel5_IRQHandler
+                0x000000000800204c                EXTI4_IRQHandler
+                0x000000000800204c                USB_LP_CAN1_RX0_IRQHandler
+                0x000000000800204c                USB_HP_CAN1_TX_IRQHandler
+                0x000000000800204c                DMA1_Channel3_IRQHandler
+                0x000000000800204c                TIM1_UP_IRQHandler
+                0x000000000800204c                WWDG_IRQHandler
+                0x000000000800204c                TIM2_IRQHandler
+                0x000000000800204c                TIM1_BRK_IRQHandler
+                0x000000000800204c                EXTI1_IRQHandler
+                0x000000000800204c                RTCAlarm_IRQHandler
+                0x000000000800204c                USART2_IRQHandler
+                0x000000000800204c                I2C2_ER_IRQHandler
+                0x000000000800204c                DMA1_Channel2_IRQHandler
+                0x000000000800204c                CAN1_SCE_IRQHandler
+                0x000000000800204c                FLASH_IRQHandler
+                0x000000000800204c                USART1_IRQHandler
+                0x000000000800204c                I2C1_ER_IRQHandler
+                0x000000000800204c                USBWakeUp_IRQHandler
+ .text.memset   0x000000000800204e       0x10 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+                0x000000000800204e                memset
+ *(.glue_7)
+ .glue_7        0x000000000800205e        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000800205e        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x000000000800205e        0x2 
+ .eh_frame      0x0000000008002060        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x0000000008002060        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x0000000008002060                _init
+ .init          0x0000000008002064        0x8 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x000000000800206c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x000000000800206c                _fini
+ .fini          0x0000000008002070        0x8 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+                0x0000000008002078                . = ALIGN (0x4)
+                0x0000000008002078                _etext = .
+
+.vfp11_veneer   0x0000000008002078        0x0
+ .vfp11_veneer  0x0000000008002078        0x0 linker stubs
+
+.v4_bx          0x0000000008002078        0x0
+ .v4_bx         0x0000000008002078        0x0 linker stubs
+
+.iplt           0x0000000008002078        0x0
+ .iplt          0x0000000008002078        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x0000000008002078       0x10
+                0x0000000008002078                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000008002078        0xa CMakeFiles/main.dir/main.c.obj
+ .rodata.str1.1
+                0x0000000008002082        0x5 free_rtos/libRTOS.a(tasks.c.obj)
+                0x0000000008002088                . = ALIGN (0x4)
+ *fill*         0x0000000008002087        0x1 
+
+.rel.dyn        0x0000000008002088        0x0
+ .rel.iplt      0x0000000008002088        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000008002088        0x0
+                0x0000000008002088                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008002088                __exidx_end = .
+
+.preinit_array  0x0000000008002088        0x0
+                0x0000000008002088                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0000000008002088                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0000000008002088        0x4
+                0x0000000008002088                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008002088        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x000000000800208c                PROVIDE (__init_array_end, .)
+
+.fini_array     0x000000000800208c        0x4
+                [!provide]                        PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000000000800208c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+                0x0000000008002090                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x2c load address 0x0000000008002090
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.ADCPrescTable
+                0x0000000020000000        0x4 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .data.APBAHBPrescTable
+                0x0000000020000004       0x10 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .data.AHBPrescTable
+                0x0000000020000014       0x10 spl/libSpl.a(system_stm32f10x.c.obj)
+                0x0000000020000014                AHBPrescTable
+ .data.SystemCoreClock
+                0x0000000020000024        0x4 spl/libSpl.a(system_stm32f10x.c.obj)
+                0x0000000020000024                SystemCoreClock
+ .data.uxCriticalNesting
+                0x0000000020000028        0x4 free_rtos/libRTOS.a(port.c.obj)
+                0x000000002000002c                . = ALIGN (0x4)
+                0x000000002000002c                _edata = .
+
+.jcr            0x000000002000002c        0x0 load address 0x00000000080020bc
+ .jcr           0x000000002000002c        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.igot.plt       0x000000002000002c        0x0 load address 0x00000000080020bc
+ .igot.plt      0x000000002000002c        0x0 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x000000002000002c                . = ALIGN (0x4)
+
+.bss            0x000000002000002c     0x4940 load address 0x00000000080020bc
+                0x000000002000002c                _sbss = .
+                0x000000002000002c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000002c       0x1c /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ .bss.pxCurrentTCB
+                0x0000000020000048        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+                0x0000000020000048                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x000000002000004c        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.pxOverflowDelayedTaskList
+                0x0000000020000050        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.pxReadyTasksLists
+                0x0000000020000054       0x64 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.uxCurrentNumberOfTasks
+                0x00000000200000b8        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x00000000200000bc        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.uxPendedTicks
+                0x00000000200000c0        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.uxSchedulerSuspended
+                0x00000000200000c4        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.uxTaskNumber
+                0x00000000200000c8        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.uxTopReadyPriority
+                0x00000000200000cc        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xDelayedTaskList1
+                0x00000000200000d0       0x14 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xDelayedTaskList2
+                0x00000000200000e4       0x14 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xIdleTaskHandle
+                0x00000000200000f8        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xNextTaskUnblockTime
+                0x00000000200000fc        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xNumOfOverflows
+                0x0000000020000100        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xPendingReadyList
+                0x0000000020000104       0x14 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xSchedulerRunning
+                0x0000000020000118        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xSuspendedTaskList
+                0x000000002000011c       0x14 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xTasksWaitingTermination
+                0x0000000020000130       0x14 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xTickCount
+                0x0000000020000144        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.xYieldPending
+                0x0000000020000148        0x4 free_rtos/libRTOS.a(tasks.c.obj)
+ .bss.pxEnd     0x000000002000014c        0x4 free_rtos/libRTOS.a(heap_4.c.obj)
+ .bss.ucHeap    0x0000000020000150     0x4800 free_rtos/libRTOS.a(heap_4.c.obj)
+ .bss.xBlockAllocatedBit
+                0x0000000020004950        0x4 free_rtos/libRTOS.a(heap_4.c.obj)
+ .bss.xFreeBytesRemaining
+                0x0000000020004954        0x4 free_rtos/libRTOS.a(heap_4.c.obj)
+ .bss.xMinimumEverFreeBytesRemaining
+                0x0000000020004958        0x4 free_rtos/libRTOS.a(heap_4.c.obj)
+ .bss.xStart    0x000000002000495c        0x8 free_rtos/libRTOS.a(heap_4.c.obj)
+ *(COMMON)
+ COMMON         0x0000000020004964        0x6 CMakeFiles/main.dir/main.c.obj
+                0x0000000020004964                HSEStartUpStatus
+                0x0000000020004966                GPIO_InitStructure
+                0x000000002000496c                . = ALIGN (0x4)
+ *fill*         0x000000002000496a        0x2 
+                0x000000002000496c                _ebss = .
+                0x000000002000496c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000496c      0x600 load address 0x00000000080020bc
+                0x000000002000496c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (end, .)
+                [!provide]                        PROVIDE (_end, .)
+                0x0000000020004b6c                . = (. + _Min_Heap_Size)
+ *fill*         0x000000002000496c      0x200 
+                0x0000000020004f6c                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020004b6c      0x400 
+                0x0000000020004f6c                . = ALIGN (0x4)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x33 CMakeFiles/main.dir/main.c.obj
+ .ARM.attributes
+                0x000000000000007d       0x33 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .ARM.attributes
+                0x00000000000000b0       0x33 spl/libSpl.a(misc.c.obj)
+ .ARM.attributes
+                0x00000000000000e3       0x21 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .ARM.attributes
+                0x0000000000000104       0x33 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .ARM.attributes
+                0x0000000000000137       0x33 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .ARM.attributes
+                0x000000000000016a       0x33 spl/libSpl.a(system_stm32f10x.c.obj)
+ .ARM.attributes
+                0x000000000000019d       0x33 free_rtos/libRTOS.a(tasks.c.obj)
+ .ARM.attributes
+                0x00000000000001d0       0x33 free_rtos/libRTOS.a(port.c.obj)
+ .ARM.attributes
+                0x0000000000000203       0x33 free_rtos/libRTOS.a(heap_4.c.obj)
+ .ARM.attributes
+                0x0000000000000236       0x33 free_rtos/libRTOS.a(list.c.obj)
+ .ARM.attributes
+                0x0000000000000269       0x2d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000296       0x1d /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x6f1a
+ .debug_info    0x0000000000000000      0xd7f CMakeFiles/main.dir/main.c.obj
+ .debug_info    0x0000000000000d7f      0x11c CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_info    0x0000000000000e9b      0x4ed spl/libSpl.a(misc.c.obj)
+ .debug_info    0x0000000000001388       0xa6 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .debug_info    0x000000000000142e      0x7e2 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_info    0x0000000000001c10      0x8ce spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_info    0x00000000000024de      0x476 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_info    0x0000000000002954     0x2c2b free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_info    0x000000000000557f      0x309 free_rtos/libRTOS.a(port.c.obj)
+ .debug_info    0x0000000000005888      0xbdd free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_info    0x0000000000006465      0xab5 free_rtos/libRTOS.a(list.c.obj)
+
+.debug_abbrev   0x0000000000000000     0x1575
+ .debug_abbrev  0x0000000000000000      0x271 CMakeFiles/main.dir/main.c.obj
+ .debug_abbrev  0x0000000000000271       0xa9 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_abbrev  0x000000000000031a      0x191 spl/libSpl.a(misc.c.obj)
+ .debug_abbrev  0x00000000000004ab       0x12 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .debug_abbrev  0x00000000000004bd      0x21d spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_abbrev  0x00000000000006da      0x1f6 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_abbrev  0x00000000000008d0      0x1b8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_abbrev  0x0000000000000a88      0x455 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_abbrev  0x0000000000000edd      0x1d5 free_rtos/libRTOS.a(port.c.obj)
+ .debug_abbrev  0x00000000000010b2      0x2df free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_abbrev  0x0000000000001391      0x1e4 free_rtos/libRTOS.a(list.c.obj)
+
+.debug_loc      0x0000000000000000     0x2af4
+ .debug_loc     0x0000000000000000       0x42 CMakeFiles/main.dir/main.c.obj
+ .debug_loc     0x0000000000000042      0x16c spl/libSpl.a(misc.c.obj)
+ .debug_loc     0x00000000000001ae      0x520 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_loc     0x00000000000006ce      0x6b8 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_loc     0x0000000000000d86       0xb1 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_loc     0x0000000000000e37     0x1835 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_loc     0x000000000000266c       0xa8 free_rtos/libRTOS.a(port.c.obj)
+ .debug_loc     0x0000000000002714      0x34c free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_loc     0x0000000000002a60       0x94 free_rtos/libRTOS.a(list.c.obj)
+
+.debug_aranges  0x0000000000000000      0x170
+ .debug_aranges
+                0x0000000000000000       0x28 CMakeFiles/main.dir/main.c.obj
+ .debug_aranges
+                0x0000000000000028       0x20 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_aranges
+                0x0000000000000048       0x20 spl/libSpl.a(misc.c.obj)
+ .debug_aranges
+                0x0000000000000068       0x28 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .debug_aranges
+                0x0000000000000090       0x20 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_aranges
+                0x00000000000000b0       0x20 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_aranges
+                0x00000000000000d0       0x20 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_aranges
+                0x00000000000000f0       0x20 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_aranges
+                0x0000000000000110       0x20 free_rtos/libRTOS.a(port.c.obj)
+ .debug_aranges
+                0x0000000000000130       0x20 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_aranges
+                0x0000000000000150       0x20 free_rtos/libRTOS.a(list.c.obj)
+
+.debug_ranges   0x0000000000000000      0x1b0
+ .debug_ranges  0x0000000000000000       0x18 CMakeFiles/main.dir/main.c.obj
+ .debug_ranges  0x0000000000000018       0x20 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .debug_ranges  0x0000000000000038       0x18 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_ranges  0x0000000000000050      0x160 free_rtos/libRTOS.a(tasks.c.obj)
+
+.debug_macro    0x0000000000000000     0xf259
+ .debug_macro   0x0000000000000000      0x2bf CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x00000000000002bf      0x8b0 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000b6f       0x5c CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000bcb       0x22 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000bed       0x22 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000c0f       0x87 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000c96       0x51 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000ce7       0xef CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000dd6       0x6a CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000000e40      0x1df CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000101f      0x69f CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x00000000000016be     0x7dbe CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000947c      0x2df CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000975b      0x144 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000989f      0x3cf CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000009c6e       0xc8 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000009d36      0x17a CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000009eb0       0xac CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x0000000000009f5c      0x3ad CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000a309       0x9a CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000a3a3      0x279 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000a61c      0x2ac CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000a8c8      0x2b1 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000ab79       0x64 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000abdd       0x82 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000ac5f      0x3e2 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000b041       0x58 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000b099      0x341 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000b3da      0x2c4 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000b69e      0x711 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000bdaf      0x220 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000bfcf       0x34 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c003       0x8b CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c08e       0x35 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c0c3      0x2c9 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c38c      0x174 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c500       0xe1 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c5e1      0x168 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c749       0xe4 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c82d       0x10 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c83d       0x1f CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000c85c      0x416 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cc72       0xc0 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cd32       0x8c CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cdbe       0x46 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000ce04       0x3c CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000ce40       0x9c CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cedc       0x16 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cef2       0x35 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cf27       0x52 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cf79       0x1f CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cf98       0x43 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cfdb       0x20 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000cffb      0x1a3 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000d19e      0x330 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000d4ce       0x16 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000d4e4       0x29 CMakeFiles/main.dir/main.c.obj
+ .debug_macro   0x000000000000d50d      0x185 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x000000000000d692      0x2cf CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_macro   0x000000000000d961      0x18b spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x000000000000daec       0x85 spl/libSpl.a(misc.c.obj)
+ .debug_macro   0x000000000000db71      0x1d7 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x000000000000dd48      0x2a6 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_macro   0x000000000000dfee      0x2a1 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x000000000000e28f      0x3dc spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_macro   0x000000000000e66b      0x188 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_macro   0x000000000000e7f3      0x25b free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000ea4e       0x40 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000ea8e       0x8d free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000eb1b      0x10e free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000ec29       0x8d free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000ecb6       0x57 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000ed0d       0x16 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000ed23       0x91 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000edb4       0x10 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_macro   0x000000000000edc4      0x176 free_rtos/libRTOS.a(port.c.obj)
+ .debug_macro   0x000000000000ef3a      0x1a3 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_macro   0x000000000000f0dd      0x17c free_rtos/libRTOS.a(list.c.obj)
+
+.debug_line     0x0000000000000000     0x2e83
+ .debug_line    0x0000000000000000      0x5c2 CMakeFiles/main.dir/main.c.obj
+ .debug_line    0x00000000000005c2      0x3ab CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_line    0x000000000000096d      0x3b8 spl/libSpl.a(misc.c.obj)
+ .debug_line    0x0000000000000d25       0xa6 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+ .debug_line    0x0000000000000dcb      0x47c spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_line    0x0000000000001247      0x4b3 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_line    0x00000000000016fa      0x3e8 spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_line    0x0000000000001ae2      0x991 free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_line    0x0000000000002473      0x2ba free_rtos/libRTOS.a(port.c.obj)
+ .debug_line    0x000000000000272d      0x3ed free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_line    0x0000000000002b1a      0x369 free_rtos/libRTOS.a(list.c.obj)
+
+.debug_str      0x0000000000000000    0x56eb4
+ .debug_str     0x0000000000000000    0x53345 CMakeFiles/main.dir/main.c.obj
+                                      0x535d4 (size before relaxing)
+ .debug_str     0x0000000000053345       0xdd CMakeFiles/main.dir/stm32f10x_it.c.obj
+                                      0x4ca97 (size before relaxing)
+ .debug_str     0x0000000000053422      0x26d spl/libSpl.a(misc.c.obj)
+                                      0x4cc6b (size before relaxing)
+ .debug_str     0x000000000005368f      0x4a5 spl/libSpl.a(stm32f10x_gpio.c.obj)
+                                      0x4cffa (size before relaxing)
+ .debug_str     0x0000000000053b34      0xb33 spl/libSpl.a(stm32f10x_rcc.c.obj)
+                                      0x4d5c9 (size before relaxing)
+ .debug_str     0x0000000000054667       0xd7 spl/libSpl.a(system_stm32f10x.c.obj)
+                                      0x4cb88 (size before relaxing)
+ .debug_str     0x000000000005473e     0x1eaf free_rtos/libRTOS.a(tasks.c.obj)
+                                       0xbd37 (size before relaxing)
+ .debug_str     0x00000000000565ed      0x5fb free_rtos/libRTOS.a(port.c.obj)
+                                       0x72b8 (size before relaxing)
+ .debug_str     0x0000000000056be8      0x259 free_rtos/libRTOS.a(heap_4.c.obj)
+                                       0x9ff5 (size before relaxing)
+ .debug_str     0x0000000000056e41       0x73 free_rtos/libRTOS.a(list.c.obj)
+                                       0x98e8 (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f CMakeFiles/main.dir/main.c.obj
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .comment       0x000000000000007f       0x80 spl/libSpl.a(misc.c.obj)
+ .comment       0x000000000000007f       0x80 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .comment       0x000000000000007f       0x80 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .comment       0x000000000000007f       0x80 spl/libSpl.a(system_stm32f10x.c.obj)
+ .comment       0x000000000000007f       0x80 free_rtos/libRTOS.a(tasks.c.obj)
+ .comment       0x000000000000007f       0x80 free_rtos/libRTOS.a(port.c.obj)
+ .comment       0x000000000000007f       0x80 free_rtos/libRTOS.a(heap_4.c.obj)
+ .comment       0x000000000000007f       0x80 free_rtos/libRTOS.a(list.c.obj)
+
+.debug_frame    0x0000000000000000      0xcb0
+ .debug_frame   0x0000000000000000       0xbc CMakeFiles/main.dir/main.c.obj
+ .debug_frame   0x00000000000000bc       0xa0 CMakeFiles/main.dir/stm32f10x_it.c.obj
+ .debug_frame   0x000000000000015c       0x68 spl/libSpl.a(misc.c.obj)
+ .debug_frame   0x00000000000001c4      0x170 spl/libSpl.a(stm32f10x_gpio.c.obj)
+ .debug_frame   0x0000000000000334      0x220 spl/libSpl.a(stm32f10x_rcc.c.obj)
+ .debug_frame   0x0000000000000554       0x3c spl/libSpl.a(system_stm32f10x.c.obj)
+ .debug_frame   0x0000000000000590      0x52c free_rtos/libRTOS.a(tasks.c.obj)
+ .debug_frame   0x0000000000000abc       0xd0 free_rtos/libRTOS.a(port.c.obj)
+ .debug_frame   0x0000000000000b8c       0x98 free_rtos/libRTOS.a(heap_4.c.obj)
+ .debug_frame   0x0000000000000c24       0x6c free_rtos/libRTOS.a(list.c.obj)
+ .debug_frame   0x0000000000000c90       0x20 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+AHBPrescTable                                     spl/libSpl.a(system_stm32f10x.c.obj)
+BusFault_Handler                                  CMakeFiles/main.dir/stm32f10x_it.c.obj
+CAN1_RX1_IRQHandler                               spl/libSpl.a(startup_stm32f10x_md.s.obj)
+CAN1_SCE_IRQHandler                               spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel1_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel2_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel3_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel4_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel5_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel6_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DMA1_Channel7_IRQHandler                          spl/libSpl.a(startup_stm32f10x_md.s.obj)
+DebugMon_Handler                                  CMakeFiles/main.dir/stm32f10x_it.c.obj
+Default_Handler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+Delay                                             CMakeFiles/main.dir/main.c.obj
+EXTI0_IRQHandler                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+EXTI15_10_IRQHandler                              spl/libSpl.a(startup_stm32f10x_md.s.obj)
+EXTI1_IRQHandler                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+EXTI2_IRQHandler                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+EXTI3_IRQHandler                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+EXTI4_IRQHandler                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+EXTI9_5_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+FLASH_IRQHandler                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+GPIO_AFIODeInit                                   spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_DeInit                                       spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_ETH_MediaInterfaceConfig                     spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_EXTILineConfig                               spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_EventOutputCmd                               spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_EventOutputConfig                            spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_Init                                         spl/libSpl.a(stm32f10x_gpio.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+GPIO_InitStructure                                CMakeFiles/main.dir/main.c.obj
+GPIO_PinLockConfig                                spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_PinRemapConfig                               spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_ReadInputData                                spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_ReadInputDataBit                             spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_ReadOutputData                               spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_ReadOutputDataBit                            spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_ResetBits                                    spl/libSpl.a(stm32f10x_gpio.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+GPIO_SetBits                                      spl/libSpl.a(stm32f10x_gpio.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+GPIO_StructInit                                   spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_Write                                        spl/libSpl.a(stm32f10x_gpio.c.obj)
+GPIO_WriteBit                                     spl/libSpl.a(stm32f10x_gpio.c.obj)
+HSEStartUpStatus                                  CMakeFiles/main.dir/main.c.obj
+HardFault_Handler                                 CMakeFiles/main.dir/stm32f10x_it.c.obj
+I2C1_ER_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+I2C1_EV_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+I2C2_ER_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+I2C2_EV_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+MemManage_Handler                                 CMakeFiles/main.dir/stm32f10x_it.c.obj
+NMI_Handler                                       CMakeFiles/main.dir/stm32f10x_it.c.obj
+NVIC_Configuration                                CMakeFiles/main.dir/main.c.obj
+NVIC_Init                                         spl/libSpl.a(misc.c.obj)
+NVIC_PriorityGroupConfig                          spl/libSpl.a(misc.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+NVIC_SetVectorTable                               spl/libSpl.a(misc.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+NVIC_SystemLPConfig                               spl/libSpl.a(misc.c.obj)
+PVD_IRQHandler                                    spl/libSpl.a(startup_stm32f10x_md.s.obj)
+PendSV_Handler                                    CMakeFiles/main.dir/stm32f10x_it.c.obj
+RCC_ADCCLKConfig                                  spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_AHBPeriphClockCmd                             spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_APB1PeriphClockCmd                            spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_APB1PeriphResetCmd                            spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_APB2PeriphClockCmd                            spl/libSpl.a(stm32f10x_rcc.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+RCC_APB2PeriphResetCmd                            spl/libSpl.a(stm32f10x_rcc.c.obj)
+                                                  spl/libSpl.a(stm32f10x_gpio.c.obj)
+RCC_AdjustHSICalibrationValue                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_BackupResetCmd                                spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_ClearFlag                                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_ClearITPendingBit                             spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_ClockSecuritySystemCmd                        spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_DeInit                                        spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_GetClocksFreq                                 spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_GetFlagStatus                                 spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_GetITStatus                                   spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_GetSYSCLKSource                               spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_HCLKConfig                                    spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_HSEConfig                                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_HSICmd                                        spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_IRQHandler                                    spl/libSpl.a(startup_stm32f10x_md.s.obj)
+RCC_ITConfig                                      spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_LSEConfig                                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_LSICmd                                        spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_MCOConfig                                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_PCLK1Config                                   spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_PCLK2Config                                   spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_PLLCmd                                        spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_PLLConfig                                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_RTCCLKCmd                                     spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_RTCCLKConfig                                  spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_SYSCLKConfig                                  spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_USBCLKConfig                                  spl/libSpl.a(stm32f10x_rcc.c.obj)
+RCC_WaitForHSEStartUp                             spl/libSpl.a(stm32f10x_rcc.c.obj)
+RTCAlarm_IRQHandler                               spl/libSpl.a(startup_stm32f10x_md.s.obj)
+RTC_IRQHandler                                    spl/libSpl.a(startup_stm32f10x_md.s.obj)
+Reset_Handler                                     spl/libSpl.a(startup_stm32f10x_md.s.obj)
+SPI1_IRQHandler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+SPI2_IRQHandler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+SVC_Handler                                       CMakeFiles/main.dir/stm32f10x_it.c.obj
+SysTick_CLKSourceConfig                           spl/libSpl.a(misc.c.obj)
+SysTick_Handler                                   CMakeFiles/main.dir/stm32f10x_it.c.obj
+SystemCoreClock                                   spl/libSpl.a(system_stm32f10x.c.obj)
+SystemCoreClockUpdate                             spl/libSpl.a(system_stm32f10x.c.obj)
+SystemInit                                        spl/libSpl.a(system_stm32f10x.c.obj)
+                                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TAMPER_IRQHandler                                 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM1_BRK_IRQHandler                               spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM1_CC_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM1_TRG_COM_IRQHandler                           spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM1_UP_IRQHandler                                spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM2_IRQHandler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM3_IRQHandler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+TIM4_IRQHandler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+USART1_IRQHandler                                 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+USART2_IRQHandler                                 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+USART3_IRQHandler                                 spl/libSpl.a(startup_stm32f10x_md.s.obj)
+USBWakeUp_IRQHandler                              spl/libSpl.a(startup_stm32f10x_md.s.obj)
+USB_HP_CAN1_TX_IRQHandler                         spl/libSpl.a(startup_stm32f10x_md.s.obj)
+USB_LP_CAN1_RX0_IRQHandler                        spl/libSpl.a(startup_stm32f10x_md.s.obj)
+UsageFault_Handler                                CMakeFiles/main.dir/stm32f10x_it.c.obj
+WWDG_IRQHandler                                   spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_Jv_RegisterClasses                               /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+__bss_end__                                       /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__bss_start__                                     /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__call_exitprocs                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+__deregister_frame_info                           /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+__dso_handle                                      /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+__init_array_end                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+__init_array_start                                /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+__libc_fini_array                                 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__libc_init_array                                 /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__preinit_array_end                               /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+__preinit_array_start                             /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+__register_frame_info                             /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+__sf_fake_stderr                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+__stack                                           /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_ebss                                             spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_edata                                            spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_estack                                           spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_exit                                             /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libnosys.a(_exit.o)
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+_fini                                             /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+_global_impure_ptr                                /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+_impure_ptr                                       /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-impure.o)
+_init                                             /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-init.o)
+_mainCRTStartup                                   /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_sbss                                             spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_sdata                                            spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_sidata                                           spl/libSpl.a(startup_stm32f10x_md.s.obj)
+_start                                            /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+atexit                                            /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+eTaskGetState                                     free_rtos/libRTOS.a(tasks.c.obj)
+exit                                              /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-exit.o)
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+g_pfnVectors                                      spl/libSpl.a(startup_stm32f10x_md.s.obj)
+hardware_init_hook                                /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+main                                              CMakeFiles/main.dir/main.c.obj
+                                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+memset                                            /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg_nano.a(lib_a-memset.o)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+                                                  /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+pcTaskGetName                                     free_rtos/libRTOS.a(tasks.c.obj)
+prvSetupHardware                                  CMakeFiles/main.dir/main.c.obj
+pvPortMalloc                                      free_rtos/libRTOS.a(heap_4.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+pvTaskIncrementMutexHeldCount                     free_rtos/libRTOS.a(tasks.c.obj)
+pxCurrentTCB                                      free_rtos/libRTOS.a(tasks.c.obj)
+                                                  free_rtos/libRTOS.a(port.c.obj)
+pxPortInitialiseStack                             free_rtos/libRTOS.a(port.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+software_init_hook                                /usr/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+task1                                             CMakeFiles/main.dir/main.c.obj
+task2                                             CMakeFiles/main.dir/main.c.obj
+ulTaskNotifyTake                                  free_rtos/libRTOS.a(tasks.c.obj)
+uxListRemove                                      free_rtos/libRTOS.a(list.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+uxTaskGetNumberOfTasks                            free_rtos/libRTOS.a(tasks.c.obj)
+uxTaskGetSystemState                              free_rtos/libRTOS.a(tasks.c.obj)
+uxTaskGetTaskNumber                               free_rtos/libRTOS.a(tasks.c.obj)
+uxTaskPriorityGet                                 free_rtos/libRTOS.a(tasks.c.obj)
+uxTaskPriorityGetFromISR                          free_rtos/libRTOS.a(tasks.c.obj)
+uxTaskResetEventItemValue                         free_rtos/libRTOS.a(tasks.c.obj)
+vApplicationStackOverflowHook                     CMakeFiles/main.dir/main.c.obj
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vListInitialise                                   free_rtos/libRTOS.a(list.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vListInitialiseItem                               free_rtos/libRTOS.a(list.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vListInsert                                       free_rtos/libRTOS.a(list.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vListInsertEnd                                    free_rtos/libRTOS.a(list.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vPortEndScheduler                                 free_rtos/libRTOS.a(port.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vPortEnterCritical                                free_rtos/libRTOS.a(port.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vPortExitCritical                                 free_rtos/libRTOS.a(port.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vPortFree                                         free_rtos/libRTOS.a(heap_4.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+vPortInitialiseBlocks                             free_rtos/libRTOS.a(heap_4.c.obj)
+vPortSVCHandler                                   free_rtos/libRTOS.a(port.c.obj)
+                                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+vPortSetupTimerInterrupt                          free_rtos/libRTOS.a(port.c.obj)
+vTaskDelay                                        free_rtos/libRTOS.a(tasks.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+vTaskDelayUntil                                   free_rtos/libRTOS.a(tasks.c.obj)
+vTaskDelete                                       free_rtos/libRTOS.a(tasks.c.obj)
+vTaskEndScheduler                                 free_rtos/libRTOS.a(tasks.c.obj)
+vTaskGetInfo                                      free_rtos/libRTOS.a(tasks.c.obj)
+vTaskMissedYield                                  free_rtos/libRTOS.a(tasks.c.obj)
+vTaskNotifyGiveFromISR                            free_rtos/libRTOS.a(tasks.c.obj)
+vTaskPlaceOnEventList                             free_rtos/libRTOS.a(tasks.c.obj)
+vTaskPlaceOnUnorderedEventList                    free_rtos/libRTOS.a(tasks.c.obj)
+vTaskPriorityInherit                              free_rtos/libRTOS.a(tasks.c.obj)
+vTaskPrioritySet                                  free_rtos/libRTOS.a(tasks.c.obj)
+vTaskResume                                       free_rtos/libRTOS.a(tasks.c.obj)
+vTaskSetTaskNumber                                free_rtos/libRTOS.a(tasks.c.obj)
+vTaskSetTimeOutState                              free_rtos/libRTOS.a(tasks.c.obj)
+vTaskStartScheduler                               free_rtos/libRTOS.a(tasks.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+vTaskSuspend                                      free_rtos/libRTOS.a(tasks.c.obj)
+vTaskSuspendAll                                   free_rtos/libRTOS.a(tasks.c.obj)
+                                                  free_rtos/libRTOS.a(heap_4.c.obj)
+vTaskSwitchContext                                free_rtos/libRTOS.a(tasks.c.obj)
+                                                  free_rtos/libRTOS.a(port.c.obj)
+xPortGetFreeHeapSize                              free_rtos/libRTOS.a(heap_4.c.obj)
+xPortGetMinimumEverFreeHeapSize                   free_rtos/libRTOS.a(heap_4.c.obj)
+xPortPendSVHandler                                free_rtos/libRTOS.a(port.c.obj)
+                                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+xPortStartScheduler                               free_rtos/libRTOS.a(port.c.obj)
+                                                  free_rtos/libRTOS.a(tasks.c.obj)
+xPortSysTickHandler                               free_rtos/libRTOS.a(port.c.obj)
+                                                  spl/libSpl.a(startup_stm32f10x_md.s.obj)
+xTaskCheckForTimeOut                              free_rtos/libRTOS.a(tasks.c.obj)
+xTaskCreate                                       free_rtos/libRTOS.a(tasks.c.obj)
+                                                  CMakeFiles/main.dir/main.c.obj
+xTaskGenericNotify                                free_rtos/libRTOS.a(tasks.c.obj)
+xTaskGenericNotifyFromISR                         free_rtos/libRTOS.a(tasks.c.obj)
+xTaskGetCurrentTaskHandle                         free_rtos/libRTOS.a(tasks.c.obj)
+xTaskGetTickCount                                 free_rtos/libRTOS.a(tasks.c.obj)
+xTaskGetTickCountFromISR                          free_rtos/libRTOS.a(tasks.c.obj)
+xTaskIncrementTick                                free_rtos/libRTOS.a(tasks.c.obj)
+                                                  free_rtos/libRTOS.a(port.c.obj)
+xTaskNotifyStateClear                             free_rtos/libRTOS.a(tasks.c.obj)
+xTaskNotifyWait                                   free_rtos/libRTOS.a(tasks.c.obj)
+xTaskPriorityDisinherit                           free_rtos/libRTOS.a(tasks.c.obj)
+xTaskRemoveFromEventList                          free_rtos/libRTOS.a(tasks.c.obj)
+xTaskRemoveFromUnorderedEventList                 free_rtos/libRTOS.a(tasks.c.obj)
+xTaskResumeAll                                    free_rtos/libRTOS.a(tasks.c.obj)
+                                                  free_rtos/libRTOS.a(heap_4.c.obj)
+xTaskResumeFromISR                                free_rtos/libRTOS.a(tasks.c.obj)
