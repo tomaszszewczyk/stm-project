@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/source/free_rtos" />
+      <file path="$PROJECT_DIR$/source/spl" />
+    </sourceRoots>
+    <libraryRoots>
+      <file path="$PROJECT_DIR$/source/spl/inc" />
+      <file path="$PROJECT_DIR$/source/spl/src" />
+    </libraryRoots>
+  </component>
+</project>

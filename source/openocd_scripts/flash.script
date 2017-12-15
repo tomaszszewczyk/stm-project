@@ -1,8 +1,15 @@
+
+source [find ../../source/openocd_scripts/stlink-v2.cfg]
+source [find ../../source/openocd_scripts/stm32f1x.cfg]
+
+init
+
 halt
 sleep 10
 poll
 sleep 10
 stm32x mass_erase 0
+reset halt
 sleep 10
 flash write_bank 0 main.bin 0
 sleep 10

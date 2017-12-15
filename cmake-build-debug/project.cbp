@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tomek/code/stm-project/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tomek/code/stm-project/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tomek/code/stm-project/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project">
+				<Option output="/home/tomek/code/stm-project/project/cmake-build-debug/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomek/code/stm-project/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project/fast">
+				<Option output="/home/tomek/code/stm-project/project/cmake-build-debug/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tomek/code/stm-project/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tomek/code/stm-project/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tomek/code/stm-project/project/Makefile">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/CMakeLists.txt">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/arm-none-eabi.cmake">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/CMakeLists.txt">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/croutine.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/event_groups.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/FreeRTOS.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/FreeRTOSConfig.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/StackMacros.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/croutine.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/deprecated_definitions.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/event_groups.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/list.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/mpu_prototypes.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/mpu_wrappers.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/portable.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/projdefs.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/queue.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/semphr.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/task.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/include/timers.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/list.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/BCC/16BitDOS/Flsh186/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/BCC/16BitDOS/Flsh186/prtmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/BCC/16BitDOS/PC/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/BCC/16BitDOS/PC/prtmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/BCC/16BitDOS/common/portasm.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/BCC/16BitDOS/common/portcomn.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/ARM_CM4F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/ARM_CM4F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/ARM_Cortex-R4/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/ARM_Cortex-R4/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/MSP430X/data_model.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/MSP430X/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CCS/MSP430X/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CodeWarrior/ColdFire_V1/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CodeWarrior/ColdFire_V1/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CodeWarrior/ColdFire_V2/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CodeWarrior/ColdFire_V2/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CodeWarrior/HCS12/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/CodeWarrior/HCS12/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Common/mpu_wrappers.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91FR40008/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91FR40008/portISR.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91FR40008/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/AT91SAM7X256.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/ioat91sam7x256.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/lib_AT91SAM7X256.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/lib_AT91SAM7X256.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/portISR.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_AT91SAM7S/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_LPC2000/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_LPC2000/portISR.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_LPC2000/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_LPC23xx/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_LPC23xx/portISR.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM7_LPC23xx/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CA53_64_BIT/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CA53_64_BIT/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CA9/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CA9/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM0/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM0/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM3/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM3/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM3_MPU/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM3_MPU/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM4F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM4F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM4_MPU/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM4_MPU/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM7/r0p1/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CM7/r0p1/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CR5/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CR5/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CRx_No_GIC/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ARM_CRx_No_GIC/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ATMega323/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ATMega323/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/AVR32_UC3/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/AVR32_UC3/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/CORTUS_APS3/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/CORTUS_APS3/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ColdFire_V2/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/ColdFire_V2/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/H8S2329/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/H8S2329/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/HCS12/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/HCS12/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/IA32_flat/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/IA32_flat/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/IA32_flat/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MCF5235/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MCF5235/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MSP430F449/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MSP430F449/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlaze/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlaze/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlazeV8/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlazeV8/port_exceptions.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlazeV8/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlazeV9/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlazeV9/port_exceptions.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/MicroBlazeV9/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/NiosII/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/NiosII/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/PPC405_Xilinx/FPU_Macros.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/PPC405_Xilinx/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/PPC405_Xilinx/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/PPC440_Xilinx/FPU_Macros.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/PPC440_Xilinx/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/PPC440_Xilinx/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RL78/isr_support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RL78/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RL78/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RX100/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RX100/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RX600/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RX600/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RX600v2/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/RX600v2/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/STR75x/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/STR75x/portISR.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/STR75x/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/TriCore_1782/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/TriCore_1782/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/GCC/TriCore_1782/porttrap.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/78K0R/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/78K0R/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/78K0R/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CA5_No_GIC/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CA5_No_GIC/portASM.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CA5_No_GIC/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CA9/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CA9/portASM.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CA9/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM0/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM0/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM3/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM3/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM4F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM4F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM7/r0p1/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CM7/r0p1/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CRx_No_GIC/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ARM_CRx_No_GIC/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ATMega323/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/ATMega323/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AVR32_UC3/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AVR32_UC3/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AVR32_UC3/read.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AVR32_UC3/write.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/AT91SAM7S64.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/AT91SAM7S64_inc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/AT91SAM7X128.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/AT91SAM7X128_inc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/AT91SAM7X256.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/AT91SAM7X256_inc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/lib_AT91SAM7S64.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/lib_AT91SAM7X128.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/lib_AT91SAM7X256.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM7S64/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM9XE/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM9XE/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/AtmelSAM9XE/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/LPC2000/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/LPC2000/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/LPC2000/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/MSP430/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/MSP430/portasm.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/MSP430/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/MSP430X/data_model.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/MSP430X/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/MSP430X/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RL78/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RL78/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RL78/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RX100/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RX100/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RX600/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RX600/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RXv2/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/RXv2/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR71x/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR71x/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR71x/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR75x/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR75x/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR75x/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR91x/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR91x/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/STR91x/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/V850ES/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/V850ES/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/IAR/V850ES/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC18F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC18F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC18F/stdio.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC24_dsPIC/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC24_dsPIC/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MEC14xx/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MEC14xx/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MEC14xx/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MX/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MX/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MX/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MZ/ISR_Support.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MZ/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MPLAB/PIC32MZ/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MSVC-MingW/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MSVC-MingW/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MemMang/heap_1.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MemMang/heap_2.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MemMang/heap_3.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MemMang/heap_4.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MemMang/heap_5.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MikroC/ARM_CM4F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/MikroC/ARM_CM4F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Paradigm/Tern_EE/large_untested/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Paradigm/Tern_EE/large_untested/portasm.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Paradigm/Tern_EE/large_untested/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Paradigm/Tern_EE/small/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Paradigm/Tern_EE/small/portasm.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Paradigm/Tern_EE/small/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM7_LPC21xx/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM7_LPC21xx/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CA9/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CA9/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM0/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM0/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM3/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM3/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM4F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM4F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM4_MPU/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM4_MPU/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM7/r0p1/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/RVDS/ARM_CM7/r0p1/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX100/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX100/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX200/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX200/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX600/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX600/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX600v2/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/RX600v2/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/SH2A_FPU/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Renesas/SH2A_FPU/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Rowley/MSP430F449/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Rowley/MSP430F449/portasm.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Rowley/MSP430F449/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/SDCC/Cygnal/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/SDCC/Cygnal/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Softune/MB91460/__STD_LIB_sbrk.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Softune/MB91460/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Softune/MB91460/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Softune/MB96340/__STD_LIB_sbrk.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Softune/MB96340/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Softune/MB96340/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Tasking/ARM_CM4F/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/Tasking/ARM_CM4F/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/WizC/PIC18/Drivers/Tick/Tick.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/WizC/PIC18/Drivers/Tick/isrTick.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/WizC/PIC18/addFreeRTOS.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/WizC/PIC18/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/WizC/PIC18/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/oWatcom/16BitDOS/Flsh186/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/oWatcom/16BitDOS/Flsh186/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/oWatcom/16BitDOS/PC/port.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/oWatcom/16BitDOS/PC/portmacro.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/oWatcom/16BitDOS/common/portasm.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/portable/oWatcom/16BitDOS/common/portcomn.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/queue.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/tasks.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/free_rtos/timers.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/main.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/openocd_scripts/flash.script">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/openocd_scripts/stlink-v2.cfg">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/openocd_scripts/stm32f1x.cfg">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/CMakeLists.txt">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/core_cm3.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/misc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_adc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_bkp.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_can.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_cec.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_conf.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_crc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_dac.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_dbgmcu.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_dma.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_exti.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_flash.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_fsmc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_gpio.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_i2c.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_iwdg.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_pwr.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_rcc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_rtc.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_sdio.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_spi.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_tim.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_usart.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/stm32f10x_wwdg.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/inc/system_stm32f10x.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/core_cm3.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/misc.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_adc.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_bkp.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_can.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_cec.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_crc.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_dac.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_dbgmcu.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_dma.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_exti.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_flash.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_fsmc.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_gpio.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_i2c.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_iwdg.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_pwr.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_rcc.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_rtc.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_sdio.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_spi.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_tim.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_usart.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/stm32f10x_wwdg.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/spl/src/system_stm32f10x.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/stm32_flash.ld">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/stm32f10x_it.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/source/stm32f10x_it.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/tomek/code/stm-project/project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
